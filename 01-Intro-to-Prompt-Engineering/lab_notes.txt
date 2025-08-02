@@ -1,0 +1,1 @@
+This file contains my notes for Lab 1: Introduction to Prompt Engineering.
