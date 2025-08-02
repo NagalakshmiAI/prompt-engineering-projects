@@ -1,0 +1,12 @@
+lab_notes.txt
+
+Sample content for lab_notes.txt:
+Input:
+Convert this informal sentence into a formal one:
+“Hey, can u send me the doc asap?”
+
+Prompt:
+Make the sentence more formal.
+
+Output:
+"Could you please send me the document as soon as possible?"
