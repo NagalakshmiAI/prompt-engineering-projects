@@ -1,0 +1,9 @@
+Lab 02: Zero-Shot vs Few-Shot Prompting
+
+1. Zero-shot prompting gives the model a task with no examples.
+2. Few-shot prompting includes 1–3 examples to guide the model.
+3. Few-shot often improves accuracy for complex tasks.
+4. Key takeaway: The model performs better when shown patterns.
+5. Used in classification, translation, and reasoning tasks.
+6. Few-shot prompts should be carefully selected to guide model output quality.
+
