@@ -1,0 +1,25 @@
+In this lab, I learned how to refine prompts step by step.  
+Iterating prompts helps get better, more accurate, or creative responses.  
+Small changes can make a big impact on the output.
+## Example 1:
+
+**Initial Prompt:**
+"Write a story about a dog."
+
+**Improved Prompt:**
+"Write a 100-word funny story about a small dog who gets lost in a big city."
+
+---
+
+## Example 2:
+
+**Initial Prompt:**
+"Explain climate change."
+3. my_prompt_iterations.txt
+**Improved Prompt:**
+"Explain climate change to a 10-year-old in simple, engaging language with a real-life example."
+Initial Prompt: What is AI?
+
+1st Iteration: Explain AI in 3 lines.
+2nd Iteration: Explain AI like you're teaching a beginner.
+Final Iteration: Explain AI using an example from daily life and include pros and cons.
