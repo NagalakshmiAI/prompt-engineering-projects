@@ -1,0 +1,13 @@
+lab_notes.txt
+Example format:
+
+Input:
+A user asks for a summary of a news article.
+
+Prompt:
+Evaluate the assistant's response:
+"The article is about climate change and its effects on agriculture."
+
+Output:
+The response is too vague. It doesn't mention specific effects, data, or regions. Needs more detail for a proper summary.
+
