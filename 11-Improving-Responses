@@ -1,7 +1,11 @@
 lab_notes.txt
 
-Here’s what you need to do: Improve a basic response to make it more helpful, polite, and informative.
+💡 The goal here is to rewrite unhelpful or short responses to be more informative, clear, and user-friendly.
 
-Input: Can I get a refund if the item is broken?
+Prompt: What is the capital of Australia?
 
-Improved Output: Certainly! If the item you received is broken, you're eligible for a full refund. Please contact our support team with your order number to begin the process.
+Original Response: I think it's Sydney.
+
+Improved Response: The capital of Australia is Canberra, not Sydney. It’s the center of government and located between Sydney and Melbourne.
+
+Why it's better: The improved response corrects the mistake, adds useful detail, and is clear and polite.
