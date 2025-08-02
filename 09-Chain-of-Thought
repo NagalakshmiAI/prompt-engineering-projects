@@ -1,0 +1,11 @@
+lab_notes.txt
+
+Example format:
+
+Input:
+"If a leaf falls from a tree in a forest and no one is around to hear it, does it make a sound?"
+Prompt:
+Use chain-of-thought reasoning to answer the question.
+Output:
+"To determine if a sound is made, we must understand what sound is. Sound is a vibration that travels through the air. Whether or not a person hears it, the vibration still occurs, so yes, it does make a sound."
+
