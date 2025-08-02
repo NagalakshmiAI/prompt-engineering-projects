@@ -1,1 +1,21 @@
-This file contains my notes for Lab 1: Introduction to Prompt Engineering.
+Prompt Engineering is the process of crafting inputs that guide an AI model like ChatGPT.
+There are various techniques like zero-shot, few-shot, and chain-of-thought prompting.
+This lab explains how to write effective prompts for better responses from AI models.
+Lab 01: Introduction to Prompt Engineering
+
+1. Prompt Engineering is the art of designing effective inputs for AI models.
+2. Key techniques include:
+   - Zero-shot prompting
+   - Few-shot prompting
+   - Chain-of-Thought (CoT) prompting
+3. Effective prompts should be:
+   - Clear and specific
+   - Structured logically
+   - Tailored to the model's capabilities
+4. Prompt testing is important to compare different output styles.
+5. Even small wording changes can affect AI behavior drastically.
+6. Prompt engineering is critical in real-world AI tasks like summarization, QA, and creativity tools.
+
+This lab gave an overview of prompt styles and how they influence AI output. Understanding this helps build better AI tools and user experiences.
+
+
