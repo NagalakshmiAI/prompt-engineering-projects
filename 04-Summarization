@@ -1,0 +1,50 @@
+In this lab, I practiced summarizing long texts into short, meaningful outputs.  
+Prompting the AI with instructions like "TL;DR" or "Summarize in 3 bullet points" helped produce good summaries.  
+Summarization is useful for understanding long articles, emails, or reports quickly.
+examples.md
+## Example 1
+
+**Input:**  
+Artificial Intelligence refers to machines that can perform tasks that typically require human intelligence...
+
+**Prompt:**  
+Summarize the above in 2 lines.
+
+**Output:**  
+AI enables machines to mimic human intelligence.  
+It helps automate tasks like learning, problem-solving, and decision-making.
+
+---
+
+## Example 2
+
+**Input:**  
+Long article or story...
+
+**Prompt:**  
+Give a 3-bullet summary.
+
+**Output:**  
+- Main character faces a challenge  
+- Learns a lesson through the journey  
+- Story ends on a hopeful note
+Input: The history of the internet began with research commissioned by the US government...
+
+Prompt: Summarize in 2 lines.
+
+Output:  
+The internet started as a government research project.  
+It evolved into a global system connecting people and information.
+
+---
+
+Input: A long email about a sample project...
+
+Prompt: Summarize key points in 3 bullets.
+
+Output:
+- Deadline extended  
+- Feedback is good  
+- Next review scheduled
+
+
