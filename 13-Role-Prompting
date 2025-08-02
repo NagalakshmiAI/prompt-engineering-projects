@@ -1,0 +1,10 @@
+lab_notes.txt
+✍️ Here's What to Include in lab_notes.txt:
+🧠 Goal: Use role prompting to make the AI respond from a specific perspective (e.g., teacher, doctor, career coach).
+
+✅ Example Format:
+Prompt:
+Act as a career coach. Help me improve my resume.
+
+Output:
+Sure! First, start with a strong summary that highlights your key achievements. Use bullet points for clarity, and be sure to quantify your impact (e.g., “Increased sales by 25%”). Want me to help with a draft?
